@@ -1,2 +1,2 @@
-# M-S-72
+# MartenSchaefer
 This is my repository for GitHub Pages. 
